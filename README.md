@@ -12,7 +12,7 @@
 ## Gameplay Video
 Check out a short preview of the gameplay:
 
-[**Click Here to Watch the Gameplay Video!**](18.07.2023_00.39.49_REC.mp4)
+https://github.com/user-attachments/assets/22e198c0-9474-4c97-ba05-76673faae66d
 
 ## Screenshots
 ![Introduction Screen](introduction.png)
