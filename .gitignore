@@ -1,0 +1,20 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Presentation files (requested to be ignored)
+*.pptx
+*.ppt
+~$*.pptx
+
+# IDE specific folders/files
+.vscode/
+.vs/
+*.cbp
+*.depend
+*.layout
