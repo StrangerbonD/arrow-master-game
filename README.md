@@ -2,32 +2,31 @@
 
 **Arrow Master** is a 2D archery game built with C++ using the `graphics.h` (WinBGIm) library. The objective of the game is to aim, shoot, and conquer the high score by hitting moving targets!
 
-## 🎮 Features
+## Features
 *   **Classic 2D Graphics**: Built completely using primitive drawing functions from the BGI graphics library.
 *   **Dynamic Gameplay**: The target moves up and down automatically.
 *   **Scoring System**: Points are awarded based on where the arrow hits the target (bullseye grants more points).
 *   **Lives System**: You start with 5 lives. Missing the target or letting the arrow fly off-screen costs a life.
 *   **Persistent High Score**: Your highest score is saved locally in `score.txt` and updates automatically when broken.
 
-## 🎥 Gameplay Video
+## Gameplay Video
 Check out a short preview of the gameplay:
-<video src="18.07.2023_00.39.49_REC.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
 
-## 📸 Screenshots
+[**Click Here to Watch the Gameplay Video!**](18.07.2023_00.39.49_REC.mp4)
+
+## Screenshots
 ![Introduction Screen](introduction.png)
 ![Gameplay 1](game1.png)
 ![Gameplay 2](game2.png)
 
-## 🕹️ How to Play
+##  How to Play
 1.  Launch the game.
 2.  Press **'P'** to start the game. (Press **'Q'** to quit).
 3.  The target will move vertically on the right side of the screen.
 4.  Press **any key** on your keyboard to shoot the arrow.
 5.  Try to time your shot to hit the center of the moving target for maximum points!
 
-## ⚙️ Dependencies & Installation
+##  Dependencies & Installation
 
 Since this project utilizes the legacy `<graphics.h>` library, you need to configure your C++ compiler (usually MinGW on Windows) with the **WinBGIm** library.
 
